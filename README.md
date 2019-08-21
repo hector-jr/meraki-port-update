@@ -8,8 +8,8 @@
       - An *Update* file in which you can update all necessary ports configurations to start organizing patch cables.
     - **Meraki_port_update.py** which automates updates reading the updated file of port configurations and outputs the status of each update being made.
 ### Requirements
-- Meraki APIs have to be enabled on your dashboard in order to obtain an API Key.
-- Python has to be installed.
+- Meraki APIs must be enabled on your dashboard in order to obtain an API Key.
+- Python must be installed.
   - After Python is installed the requests module also must be installed.
     - pip install requests
 
